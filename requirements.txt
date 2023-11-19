@@ -1,0 +1,6 @@
+whisper
+json
+langchain
+sentence-transformers
+openai
+chromadb

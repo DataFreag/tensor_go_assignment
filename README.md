@@ -3,7 +3,7 @@
 Before using the code, ensure the following dependencies:
 
 - Python 3.7
-- Required Python Packages(install using '**pip install -r requirements.txt**'
+- Required Python Packages install using '**pip install -r requirements.txt**'
 - Requires  the command-line tool [`FFmpeg`](https://ffmpeg.org/) to be installed on your system
 ## Description
 The objective of this project is to enhance RAG by building a multilingual speech recognition system.
