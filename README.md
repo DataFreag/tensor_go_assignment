@@ -4,7 +4,8 @@ Before using the code, ensure the following dependencies:
 
 - Python 3.7
 - Required Python Packages install using '**pip install -r requirements.txt**'
-- Requires  the command-line tool [`FFmpeg`](https://ffmpeg.org/) to be installed on your system
+- Requires the command-line tool [`FFmpeg`](https://ffmpeg.org/) to be installed on your system
+- Requires OpenAI API key for question-answering chain. We will be using GPT 3.5 for this assignment, its API key can be accessed by signing up [here](https://openai.com/blog/openai-api)
 ## Description
 The objective of this project is to enhance RAG by building a multilingual speech recognition system.
 The goal is to enable RAG to perform various tasks, including speech recognition, translation, and summarization, in multiple languages without the need for additional training.
