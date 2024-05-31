@@ -1,4 +1,4 @@
-# TensorGO Assignment
+# Multilingual Speech Recognition Model for RAG
 ## Requirements
 Before using the code, ensure the following dependencies:
 
